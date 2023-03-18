@@ -1,0 +1,2 @@
+# projekt
+Pierwszy projekt ćwiczebny
