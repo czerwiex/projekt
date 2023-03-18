@@ -1,2 +1,4 @@
 # projekt
-Pierwszy projekt ćwiczebny
+Pierwszy projekt ćwiczebny.
+
+Dodano linikę.
